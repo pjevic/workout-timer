@@ -21,8 +21,6 @@
    - Prevents unnecessary updates when toggling sound.
    - ToggleSounds is lightweight, but memoization avoids unnecessary DOM updates.
 
----
-
 ## **`useMemo`**
 
 `useMemo` caches the result of an expensive calculation and recomputes it only when its dependencies change.
